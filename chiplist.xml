@@ -401,7 +401,6 @@
       <MX25U1001E_1.8V id="C22531" page="256" size="131072"/>
       <MX25U12835F_1.8V id="C22518" page="256" size="16777216"/>
 	  <MX25U25673G_1.8V id="C22539" page="256" size="33554432"/>
-	  <MX25U25645G_1.8V id="C22539" page="256" size="33554432"/>
       <MX25U1635E_1.8V id="C22535" page="256" size="2097152"/>
       <MX25U1635F_1.8V id="C22535" page="256" size="2097152"/>
       <MX25U2032E_1.8V id="C22532" page="256" size="262144"/>
@@ -834,7 +833,6 @@
       <W25X80L id="EF3014" page="256" size="1048576"/>
       <W25X80V id="EF3014" page="256" size="1048576"/>
 	  <W25M512JV id="EF7119" page="256" size="67108864"/>
-	  <W25R256JV id="EF4019" page="256" size="33554432"/>
     </WINBOND>
     <XICOR>
       <X25010 page="4" size="128" spicmd="95"/>
